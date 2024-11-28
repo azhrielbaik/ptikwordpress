@@ -1,0 +1,289 @@
+# Copyright (C) 2024 Qode Interactive
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Qi 1.2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/qi\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-03-18T11:23:15+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: qi\n"
+
+#. Theme Name of the theme
+#: D:\projects\freemium\app\public\wp-content\themes\qi\style.css
+msgid "Qi"
+msgstr ""
+
+#. Theme URI of the theme
+#: D:\projects\freemium\app\public\wp-content\themes\qi\style.css
+msgid "https://qodeinteractive.com/qi-theme"
+msgstr ""
+
+#. Description of the theme
+#: D:\projects\freemium\app\public\wp-content\themes\qi\style.css
+msgid "Qi theme is the latest free offering developed by Qode Interactive, winners of multiple awards and accolades in the fields of web design and development and one of bestselling WordPress theme creators. We approached Qi the same way we do when we develop premium themes - this means that the theme features comprehensive modules for your portfolio, shop, blog, a beautiful selection of contemporary premade inner page templates great for a wide array of purposes, and all the options and functionalities you may ever need to set up a professional website the easy way. Qi theme features 100 beautifully designed starter sites for all types of modern websites. Alongside stunningly designed websites for all types of businesses including spa, beauty salon, medical, SaaS, marketing, gym, and dentist websites, just to name a few, Qi also has a huge collection of sites great for personal uses. Do you wish to create a new CV or a resume, or perhaps you are a restaurant owner, a videographer or an SEO expert? Or maybe you’re just looking for a captivating yet simple way to announce your wedding? Whatever it might be, Qi has you covered! Top all this off with the authentic design style that Qode Interactive collective is known for, and you get a true creative powerhouse that’s fast, reliable and comes with virtually limitless customization options!"
+msgstr ""
+
+#. Author of the theme
+#: D:\projects\freemium\app\public\wp-content\themes\qi\style.css
+msgid "Qode Interactive"
+msgstr ""
+
+#. Author URI of the theme
+#: D:\projects\freemium\app\public\wp-content\themes\qi\style.css
+msgid "https://qodeinteractive.com"
+msgstr ""
+
+#: functions.php:116
+msgid "Skip to the content"
+msgstr ""
+
+#: functions.php:237
+msgctxt "Theme starter content"
+msgid "Logo"
+msgstr ""
+
+#: functions.php:247
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:262
+msgctxt "Theme starter content"
+msgid "About This Site"
+msgstr ""
+
+#: functions.php:263
+msgctxt "Theme starter content"
+msgid "This may be a good place to introduce yourself and your site or include some credits."
+msgstr ""
+
+#: functions.php:273
+msgctxt "Theme starter content"
+msgid "Categories"
+msgstr ""
+
+#: functions.php:281
+msgctxt "Theme starter content"
+msgid "Recent Comments"
+msgstr ""
+
+#: functions.php:289
+msgctxt "Theme starter content"
+msgid "Recent Posts"
+msgstr ""
+
+#: functions.php:297
+msgctxt "Theme starter content"
+msgid "Archives"
+msgstr ""
+
+#: functions.php:305
+msgctxt "Theme starter content"
+msgid "Meta"
+msgstr ""
+
+#: inc/404/templates/404-content.php:2
+msgid "404 - The page is not here."
+msgstr ""
+
+#. translators: %s - added br HTML tag inside text content.
+#: inc/404/templates/404-content.php:7
+msgid "Oops! The page you are looking for does not exist. %sIt might have been moved or deleted."
+msgstr ""
+
+#: inc/blog/templates/author-info/templates/author.php:13
+msgid "Author"
+msgstr ""
+
+#: inc/blog/templates/parts/post-info/author.php:10
+msgid "by"
+msgstr ""
+
+#: inc/blog/templates/parts/post-info/read-more.php:18
+#: inc/qode-essential-addons/blog/templates/parts/post-info/read-more.php:18
+msgid "Continue reading"
+msgstr ""
+
+#: inc/blog/templates/parts/post-info/read-more.php:27
+#: inc/qode-essential-addons/blog/templates/parts/post-info/read-more.php:27
+msgid "Read more"
+msgstr ""
+
+#: inc/comments/helper.php:122
+#: inc/comments/templates/comments.php:13
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/comments/templates/comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/content/templates/parts/posts-not-found.php:8
+msgid "No posts were found for provided query parameters."
+msgstr ""
+
+#. translators: %s - added sidebar title increment value.
+#: inc/footer/helper.php:94
+msgid "Footer Top Area - Column %s"
+msgstr ""
+
+#. translators: %s - added sidebar description increment value.
+#: inc/footer/helper.php:96
+msgid "Widgets added here will appear in the %s column of top footer area"
+msgstr ""
+
+#. translators: %s - added sidebar title increment value.
+#: inc/footer/helper.php:105
+msgid "Footer Bottom Area - Column %s"
+msgstr ""
+
+#. translators: %s - added sidebar description increment value.
+#: inc/footer/helper.php:107
+msgid "Widgets added here will appear in the %s column of bottom footer area"
+msgstr ""
+
+#: inc/header/helper.php:25
+msgid "Main Navigation"
+msgstr ""
+
+#: inc/header/templates/parts/navigation.php:10
+msgid "Top Menu"
+msgstr ""
+
+#: inc/mobile-header/helper.php:25
+msgid "Mobile Navigation"
+msgstr ""
+
+#: inc/mobile-header/templates/parts/mobile-navigation-opener.php:10
+#: inc/nav-menu/helper.php:70
+msgid "Open the menu"
+msgstr ""
+
+#: inc/mobile-header/templates/parts/mobile-navigation.php:10
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/nav-menu/helper.php:70
+msgid "Show sub menu"
+msgstr ""
+
+#: inc/pagination/helper.php:15
+msgid "Pages: "
+msgstr ""
+
+#: inc/qode-essential-addons/class-qodeessentialaddons-installation-notice.php:51
+msgid "Install Qode Essential Addons"
+msgstr ""
+
+#: inc/qode-essential-addons/class-qodeessentialaddons-installation-notice.php:54
+msgid "Activate Qode Essential Addons"
+msgstr ""
+
+#: inc/qode-essential-addons/class-qodeessentialaddons-installation-notice.php:63
+msgid "Thanks for choosing QI Theme!"
+msgstr ""
+
+#. translators: %s: <strong> <a>
+#: inc/qode-essential-addons/class-qodeessentialaddons-installation-notice.php:64
+msgid "Install %1$sQode Essential Addons%2$s to launch an optimized design in minutes."
+msgstr ""
+
+#: inc/qode-essential-addons/class-qodeessentialaddons-installation-notice.php:66
+msgid "Activating..."
+msgstr ""
+
+#: inc/qode-essential-addons/class-qodeessentialaddons-installation-notice.php:66
+msgid "Installing..."
+msgstr ""
+
+#: inc/qode-essential-addons/class-qodeessentialaddons-installation-notice.php:135
+msgid "Installed and activated"
+msgstr ""
+
+#: inc/qode-essential-addons/class-qodeessentialaddons-installation-notice.php:142
+msgid "Activated"
+msgstr ""
+
+#: inc/search/templates/parts/search-form.php:9
+msgid "New search:"
+msgstr ""
+
+#: inc/search/templates/parts/search-form.php:13
+msgid "If you are not happy with the results below please do another search"
+msgstr ""
+
+#: inc/title/helper.php:55
+msgid " Tag"
+msgstr ""
+
+#: inc/title/helper.php:59
+msgid "Author: "
+msgstr ""
+
+#: inc/title/helper.php:63
+msgid "Archive"
+msgstr ""
+
+#: inc/title/helper.php:65
+msgid "Search results for: "
+msgstr ""
+
+#: inc/title/helper.php:67
+msgid "404 - Page not found"
+msgstr ""
+
+#: inc/woocommerce/helper.php:153
+#: inc/woocommerce/helper.php:195
+msgid "Shop"
+msgstr ""
+
+#: inc/woocommerce/helper.php:245
+msgid "Your Rating "
+msgstr ""
+
+#: inc/woocommerce/helper.php:248
+msgid "Rate&hellip;"
+msgstr ""
+
+#: inc/woocommerce/helper.php:249
+msgid "Perfect"
+msgstr ""
+
+#: inc/woocommerce/helper.php:250
+msgid "Good"
+msgstr ""
+
+#: inc/woocommerce/helper.php:251
+msgid "Average"
+msgstr ""
+
+#: inc/woocommerce/helper.php:252
+msgid "Not that bad"
+msgstr ""
+
+#: inc/woocommerce/helper.php:253
+msgid "Very poor"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Qi Full Width"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Qi Landing"
+msgstr ""
+
+#: searchform.php:12
+msgid "search for:"
+msgstr ""
+
+#: searchform.php:14
+msgid "Search"
+msgstr ""

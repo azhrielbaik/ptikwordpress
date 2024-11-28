@@ -1,0 +1,67 @@
+/*
+Theme Name: Bhuta
+Theme URI: https://wpkoi.com/bhuta-wpkoi-wordpress-theme/
+Template: martanda
+Author: wpkoithemes
+Author URI: https://wpkoi.com
+Description: Bhuta is a child theme for Martanda WPKoi theme. You can find theme demos at wpkoi.com. Bhuta has a clean, black and white style and unique design for portfolio, business or agency content. The theme is multipurpose, so if You like the style, You can use it to represent Your art, business, an event, show Your portfolio, start a blog, start a webshop and sell Your products etc. The demos use Elementor drag and drop page builder, WooCommerce shop module and Contact Form 7 message sender plugins. The premium demo uses the Bhuta premium plugin also. Bhuta has an easy to use admin with a lot of customizer functions and block based template parts so You can build Your dream without coding knowledge. The theme is responsive so looks good on almost every devices. Build You site with Bhuta Theme and share it with the world! You can also find a documentation with an install guide and a tutorial for the screenshot look on wpkoi.com/docs.
+Requires at least: 6.1
+Tested up to: 6.2
+Requires PHP: 7.0
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Text Domain: bhuta
+Tags: one-column, blog, e-commerce, flexible-header, full-width-template, custom-background, custom-colors, sticky-post, translation-ready, featured-images, editor-style
+
+*/
+.bhuta-title-holder h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.wp-block-navigation .has-child .wp-block-navigation__submenu-container>.wp-block-navigation-item>.wp-block-navigation-item__content {
+    padding: 5px 10px;
+}
+.site-info {
+    padding: 1vw 4vw;
+}
+.site-header-holder .align-stretch {
+    align-items: stretch;
+}
+.site-header .wp-block-site-title {
+    line-height: var(--martanda--site-title-font-size);
+}
+.site-info {
+    text-align: left;
+}
+.martanda-side-left-text-content {
+    white-space: nowrap;
+}
+.wpkoi-elements-adv-accordion .wpkoi-elements-accordion-list .wpkoi-elements-accordion-header {
+    text-align: center;
+    display: block;
+}
+.wpkoi-elements-adv-accordion .wpkoi-elements-accordion-list .wpkoi-elements-accordion-content {
+    text-align: center;
+}
+.wp-block-separator.has-background.footer-separator {
+    height: 3px;
+}
+.wp-block-navigation .has-child:not(.open-on-click):hover>.wp-block-navigation__submenu-container {
+    min-width: 220px;
+}
+table, td, th {
+    border-color: rgba(255,255,255,.2) !important;
+}
+@media (min-width:600px) {
+    .bhuta-menu-border .site-header .wp-block-navigation .wp-block-navigation__container li a, .site-header .wp-block-navigation .wp-block-navigation__container .block-editor-block-list__block a {
+        padding: 0.2vw 1.5vw;
+        border: 3px solid;
+        border-radius: 100px;
+    }
+    .bhuta-menu-border .site-header .wp-block-navigation .wp-block-navigation__container li ul a, .site-header .wp-block-navigation .wp-block-navigation__container .block-editor-block-list__block .block-editor-block-list__block a {
+        padding: inherit;
+        border: none;
+        border-radius: 0;
+    }
+}

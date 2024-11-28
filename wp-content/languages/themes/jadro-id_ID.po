@@ -1,0 +1,625 @@
+# Translation of Themes - Jadro in Indonesian
+# This file is distributed under the same license as the Themes - Jadro package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-06 15:49:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Jadro\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Jadro is a minimal and lightweight Full Site Editing theme. This speed optimized theme utilizes the WordPress blocks editor to create unique and eye-catching layouts. Jadro is perfect for blogs, small businesses, startups, law firms and other creative agencies who prefer simple and speed optimized websites."
+msgstr "Jadro adalah tema Full Site Editing yang ringan. Tema yang kecepatan loadingnya dioptimalkan ini memanfaatkan editor blok untuk membuat tata letak yang unik dan enak dipandang. Jadro sangat cocok untuk blog, bisnis skala kecil, startup, firma hukum, dan agensi kreatif lainnya yang ingin memiliki situs web yang sederhana dan cepat loadingnya."
+
+#. Theme Name of the theme
+#. translators: %s: CMS name, i.e. WordPress.
+#: style.css functions.php:71 patterns/footer.php:104
+msgid "Jadro"
+msgstr "Jadro"
+
+#: styles/kelly-green.json
+msgctxt "Style variation name"
+msgid "Kelly Green"
+msgstr "Kelly Green"
+
+#: styles/hot-pink.json
+msgctxt "Style variation name"
+msgid "Hot Pink"
+msgstr "Hot Pink"
+
+#: styles/dodger-blue.json
+msgctxt "Style variation name"
+msgid "Dodger Blue"
+msgstr "Biru Dodger"
+
+#: styles/coral.json
+msgctxt "Style variation name"
+msgid "Coral"
+msgstr "Koral"
+
+#: styles/black.json
+msgctxt "Style variation name"
+msgid "Black"
+msgstr "Hitam"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Kaki"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Tajuk"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No Title and Space"
+msgstr "Tanpa Judul dan Spasi"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X Large"
+msgstr "2X Large"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Large"
+msgstr "X Large"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Large"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "Sedang"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Kecil"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Small"
+msgstr "X Small"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X Small"
+msgstr "2X Small"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Inherit"
+msgstr "Keturunan"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Current Color"
+msgstr "Warna Aktif"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Transparent"
+msgstr "Transparan"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Senary"
+msgstr "Senary"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Quinary"
+msgstr "Quinary"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Quaternary"
+msgstr "Kuarter"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Tersier"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Sekunder"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Utama"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Dasar"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Latar belakang"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Pohon Tin"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "4X Large"
+msgstr "4X Large"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "3X Large"
+msgstr "3X Large"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "2X Large"
+msgstr "2X Large"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Large"
+msgstr "X Large"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Large"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Sedang"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Base"
+msgstr "Dasar"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Kecil"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Small"
+msgstr "X Small"
+
+#: patterns/testimonials.php
+msgctxt "Pattern title"
+msgid "Testimonials"
+msgstr "Testimoni"
+
+#: patterns/team-members.php
+msgctxt "Pattern title"
+msgid "Team Members"
+msgstr "Anggota Tim"
+
+#: patterns/pricing-table.php
+msgctxt "Pattern title"
+msgid "Pricing Table"
+msgstr "Tabel Harga"
+
+#: patterns/latest-articles.php
+msgctxt "Pattern title"
+msgid "Latest Articles"
+msgstr "Artikel Terbaru"
+
+#: patterns/hero-banner.php
+msgctxt "Pattern title"
+msgid "Hero Banner"
+msgstr "Banner Hero"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr "Tajuk"
+
+#: patterns/header-with-button.php
+msgctxt "Pattern title"
+msgid "Header with Button"
+msgstr "Header dengan Tombol"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr "Kaki"
+
+#: patterns/features.php
+msgctxt "Pattern title"
+msgid "Features"
+msgstr "Fitur"
+
+#: patterns/cta-two-columns.php
+msgctxt "Pattern title"
+msgid "Call to Action 2 Columns"
+msgstr "2 Kolom Call to Action"
+
+#: patterns/cta-default.php
+msgctxt "Pattern title"
+msgid "Call to Action"
+msgstr "Call to Action"
+
+#: patterns/testimonials.php:116
+msgid "Useful features, pattern library &amp; regular updates."
+msgstr "Fitur-fitur yang bermanfaat, pustaka pola  &amp; pembaruan rutin."
+
+#: patterns/testimonials.php:110
+msgid "Corporate Lawyer"
+msgstr "Lawyer Korporasi"
+
+#: patterns/testimonials.php:80
+msgid "Public Speaker"
+msgstr "Pembicara Umum"
+
+#: patterns/testimonials.php:50
+msgid "Life Coach"
+msgstr "Life Coach"
+
+#: patterns/testimonials.php:27
+msgid "A range of testimonials from our happy customers across a variety of industries and use cases."
+msgstr "Kumpulan testimoni dari pelanggan yang puas dari beragam industri dan keperluan."
+
+#: patterns/testimonials.php:21
+msgid "Testimonials"
+msgstr "Testimoni"
+
+#: patterns/testimonials.php:17
+msgid "Customer Reviews"
+msgstr "Ulasan Pelanggan"
+
+#: patterns/team-members.php:78
+msgid "Consultant"
+msgstr "Konsultan"
+
+#: patterns/team-members.php:74 patterns/testimonials.php:106
+msgid "Dina Crossin"
+msgstr "Dina Crossin"
+
+#: patterns/team-members.php:62
+msgid "Manager"
+msgstr "Manager"
+
+#: patterns/team-members.php:58 patterns/testimonials.php:76
+msgid "Danial Chen"
+msgstr "Danial Chen"
+
+#: patterns/team-members.php:46
+msgid "Director"
+msgstr "Direktur"
+
+#: patterns/team-members.php:42 patterns/testimonials.php:46
+msgid "Eliza Weber"
+msgstr "Eliza Weber"
+
+#: patterns/team-members.php:27
+msgid "An experienced team working together, crafting exceptional experiences, and growing stronger."
+msgstr "Tim berpengalaman kerja bareng, merancang pengalaman tak terlupakan, dan tumbuh makin kuat."
+
+#: patterns/team-members.php:21
+msgid "Team Members"
+msgstr "Anggota Tim"
+
+#: patterns/team-members.php:17
+msgid "Creative"
+msgstr "Kreatif"
+
+#: patterns/pricing-table.php:197
+msgid "Onpage SEO Included"
+msgstr "Termasuk Onpage SEO"
+
+#: patterns/pricing-table.php:189
+msgid "Website Security Hardening"
+msgstr "Peningkatan Keamanan Situs Web"
+
+#: patterns/pricing-table.php:181
+msgid "Monthly Maintenance Service"
+msgstr "Layanan Pemeliharaan Bulanan"
+
+#: patterns/pricing-table.php:173
+msgid "Everything in Advanced"
+msgstr "Semuanya Tingkat Lanjut"
+
+#: patterns/pricing-table.php:159
+msgid "$499"
+msgstr "$499"
+
+#: patterns/pricing-table.php:154
+msgid "Premium"
+msgstr "Premium"
+
+#: patterns/pricing-table.php:139
+msgid "Support via Dedicated Email"
+msgstr "Bantuan Via E-mail Langsung"
+
+#: patterns/pricing-table.php:131
+msgid "Additional Block Patterns"
+msgstr "Pola Blok Tambahan"
+
+#: patterns/pricing-table.php:123
+msgid "One Click Demo Import"
+msgstr "One Click Demo Import"
+
+#: patterns/pricing-table.php:115
+msgid "Everything in Basic"
+msgstr "Semuanya Dasar"
+
+#: patterns/pricing-table.php:101
+msgid "$99"
+msgstr "$99"
+
+#: patterns/pricing-table.php:96
+msgid "Advanced"
+msgstr "Paripurna"
+
+#: patterns/pricing-table.php:81
+msgid "Support via Public Forum"
+msgstr "Bantuan dari Forum Umum"
+
+#: patterns/pricing-table.php:73
+msgid "Block Pattern Library"
+msgstr "Pustaka Pola Blok"
+
+#: patterns/pricing-table.php:57
+msgid "Responsive Layouts"
+msgstr "Tata Letak Responsif"
+
+#: patterns/pricing-table.php:47 patterns/pricing-table.php:105
+#: patterns/pricing-table.php:163
+msgid "/year"
+msgstr "/tahun"
+
+#: patterns/pricing-table.php:43
+msgid "$49"
+msgstr "$49"
+
+#: patterns/pricing-table.php:38
+msgid "Basic"
+msgstr "Dasar"
+
+#: patterns/pricing-table.php:27
+msgid "We offer a range of plans to suit businesses of all sizes, from small startups to large corporations."
+msgstr "Kamo menawarkan beragam paket yang sesuai dengan semua skala bisnis, dari startup kecil hingga korporasi besar."
+
+#: patterns/pricing-table.php:21
+msgid "Pricing Plans"
+msgstr "Harga Paket"
+
+#: patterns/pricing-table.php:17
+msgid "Straightforward"
+msgstr "Mudah"
+
+#: patterns/latest-articles.php:27
+msgid "Quickly browse the latest offers, read in-depth articles, and case studies to get the full story."
+msgstr "Jelajahi penawaran terbaru dengan cepat, baca artikel mendalam, dan studi kasus untuk mendapatkan cerita yang utuh."
+
+#: patterns/latest-articles.php:21
+msgid "Latest Articles"
+msgstr "Artikel Terbaru"
+
+#: patterns/latest-articles.php:17
+msgid "Stay Updated"
+msgstr "Selalu Diperbarui"
+
+#: patterns/hero-banner.php:26
+msgid "Simple, Clean, and Lightning Fast Full Site Editing Theme. Google Core Web Vitals and Search Engines optimized WordPress block theme."
+msgstr "Tema WordPress Pengeditan Situs Lengkap, yang sipel dan bersih. Tema blok WordPress yang dioptimalkan untuk Google Core Web Vitals."
+
+#: patterns/hero-banner.php:22
+msgid "WordPress Block Theme"
+msgstr "Tema Blok WordPress"
+
+#: patterns/footer.php:67
+msgid "Terms &amp; Conditions"
+msgstr "Syarat &amp; Ketentuan"
+
+#: patterns/footer.php:63
+msgid "Privacy Policies"
+msgstr "Kebijakan Privasi"
+
+#: patterns/footer.php:59
+msgid "Get Involved"
+msgstr "Terlibat"
+
+#: patterns/footer.php:55
+msgid "Showcase"
+msgstr "Galeri"
+
+#: patterns/footer.php:51
+msgid "Affiliate"
+msgstr "Affiliate"
+
+#: patterns/footer.php:46
+msgid "Quick Links"
+msgstr "Tautan Cepat"
+
+#: patterns/footer.php:39
+msgid "Customization Request"
+msgstr "Minta Kustomisasi"
+
+#: patterns/footer.php:35
+msgid "Support Forum"
+msgstr "Forum Bantuan"
+
+#: patterns/footer.php:31
+msgid "Help Center"
+msgstr "Pusat Bantuan"
+
+#: patterns/footer.php:27
+msgid "Success Stories"
+msgstr "Cerita Sukses"
+
+#: patterns/footer.php:23 patterns/footer.php:76
+msgid "About"
+msgstr "Tentang"
+
+#: patterns/footer.php:18
+msgid "Company"
+msgstr "Perusahaan"
+
+#: patterns/features.php:78
+msgid "Select the color of your choice from the variations available."
+msgstr "Pilih warna yang Anda suka dari variasi yang tersedia."
+
+#: patterns/features.php:74
+msgid "Color Variations"
+msgstr "Variasi Warna"
+
+#: patterns/features.php:60 patterns/testimonials.php:86
+msgid "Lightning fast theme that loads in fractions of seconds."
+msgstr "Tema cepat dan ringan yang loadingnya hanya sepersekian detik."
+
+#: patterns/features.php:56
+msgid "Speed Optimized"
+msgstr "Kecepatan Ditingkatkan"
+
+#: patterns/features.php:47 patterns/features.php:65 patterns/features.php:83
+msgid "Read More"
+msgstr "Baca Lebih Lanjut"
+
+#: patterns/features.php:42 patterns/testimonials.php:56
+msgid "Simple, clean &amp; minimal Full Site Editing theme."
+msgstr "Tema Pengeditan Situs Lengkap yang sederhana &amp; minimal."
+
+#: patterns/features.php:38 patterns/hero-banner.php:18
+#: patterns/pricing-table.php:65
+msgid "Full Site Editing"
+msgstr "Full Site Editing"
+
+#: patterns/features.php:27
+msgid "Create stunning websites effortlessly with a collection of inbuilt patterns and style variations."
+msgstr "Buat situs web yang menawan dengan mudah dengan ragam koleksi pola dan variasi gaya bawaan."
+
+#: patterns/features.php:21
+msgid "Features"
+msgstr "Fitur"
+
+#: patterns/features.php:17
+msgid "Innovative"
+msgstr "Inovatif"
+
+#: patterns/cta-two-columns.php:36
+msgid "Get In Touch"
+msgstr "Hubungi Kami"
+
+#: patterns/cta-two-columns.php:31
+msgid "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+msgstr "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+#: patterns/cta-two-columns.php:27
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+#: patterns/cta-two-columns.php:21
+msgid "Add Your Heading Here"
+msgstr "Tambahkan Judul Anda di Sini"
+
+#: patterns/cta-two-columns.php:17
+msgid "Call to Action"
+msgstr "Call to Action"
+
+#: patterns/cta-default.php:34 patterns/hero-banner.php:35
+msgid "Learn More"
+msgstr "Pelajari Lebih Lanjut"
+
+#: patterns/cta-default.php:30 patterns/header-with-button.php:32
+#: patterns/hero-banner.php:31 patterns/pricing-table.php:87
+#: patterns/pricing-table.php:145 patterns/pricing-table.php:203
+msgid "Get Started"
+msgstr "Mulai"
+
+#: patterns/cta-default.php:25 patterns/footer.php:80
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#: patterns/cta-default.php:15
+msgid "Add Call to Action Heading Here"
+msgstr "Tambahkan Judul Call to Action di Sini"
+
+#: functions.php:95
+msgid "Right Aligned"
+msgstr "Rata Kanan"
+
+#: functions.php:94
+msgid "Left Aligned"
+msgstr "Rata Kiri"
+
+#: functions.php:93
+msgid "Wide Thin Line"
+msgstr "Garis Tipis Lebar"
+
+#: functions.php:92
+msgid "Dotted"
+msgstr "Bertitik"
+
+#: functions.php:89
+msgid "None"
+msgstr "Tanpa perataan"
+
+#: functions.php:88
+msgid "Square"
+msgstr "Persegi"
+
+#: functions.php:87
+msgid "Checklist Circle"
+msgstr "Checklist Bulat"
+
+#: functions.php:86
+msgid "Checklist"
+msgstr "Checklist"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Jadro WP"
+msgstr "Jadro WP"

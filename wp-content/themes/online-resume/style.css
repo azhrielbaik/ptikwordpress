@@ -1,0 +1,124 @@
+/*
+Theme Name: Online Resume
+Theme URI: https://www.buywpthemes.net/products/free-resume-wordpress-theme/
+Author: Peccular
+Author URI: https://www.buywpthemes.net/
+Description: To have skills and to market those skills systematically to turn it into your occupation are two different attitudes & mindsets.  Our Online Resume WP template is a perfect launch pad for teams/freelancers looking to market their expertise online. If you’re a resume writer or your client is looking to create online presence as CV builder, have a look at the online Resume WP design. Our team has curated the theme after a lot of brainstorming. The neat minimal design enables you to display all aspects of your services. Right from sharing plans and packages, resume samples, integrating social media handles you can share all the important information with visitors. Online Resume WP design is also woo commerce compatible. This means you can accept payment for your services online. Woo Commerce offers a safe online payment gateway. On our WP Online CV services WordPress theme we use light weight images and minimal Java script. CSS is properly aligned and offer unlimited color options. So many color options can help you sync colors with your brand colors. You can change background colors, font color etc. Sticky headers and responsive menus are some of the other features that improve your visitor experience & conversion. Besides improving online visibility, these themes are also designed to help you build a professional image amid targeted customers. The conveniences and ease of managing CV Writer WordPress our theme is supreme. When you download the theme and install it you get a Dashboard. By logging into this interface, you can update content, change images etc. yourself. The changes you make go live in minutes. Online Resume WordPress Theme saves time & money spent on hiring/communicating with developers, and dependability on third party. Plus, Online Resume WordPress Theme is quick to download, fast to install, and quick to load.   
+Version: 0.1
+Tested up to: 5.8
+Requires PHP: 5.6
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: online-resume
+Slug: online-resume
+Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, grid-layout, portfolio, photography
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+.waves {
+    position: absolute;
+    width: 100%;
+    height: 31vh;
+    margin-bottom: -7px;
+    min-height: 100px;
+    max-height: 150px;
+    bottom: 0;
+}
+.slidercontent:before {
+    content: "";
+    position: absolute;
+    left: -78px;
+    top: -80px;
+    background-image: url(assets/images/slid-leave.png) !important;
+    right: auto;
+    bottom: auto;
+    height: 100%;
+    padding: 40px 40px;
+    background-repeat: no-repeat;
+}
+.hero-style .slide-text{position: relative;}
+
+.footer-area {
+/*     background-image: url(assets/images/footer.jpg) !important;*/
+    background: #fff;
+    position: relative;
+    display: block;
+    overflow: initial;
+    z-index: 1;
+    padding:3em 0 2em 0;
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+
+/* Animation */
+
+.parallax > use {
+  animation: move-forever 25s cubic-bezier(.55,.5,.45,.5)     infinite;
+}
+.parallax > use:nth-child(1) {
+  animation-delay: -2s;
+  animation-duration: 7s;
+}
+.parallax > use:nth-child(2) {
+  animation-delay: -3s;
+  animation-duration: 10s;
+}
+.parallax > use:nth-child(3) {
+  animation-delay: -4s;
+  animation-duration: 13s;
+}
+.parallax > use:nth-child(4) {
+  animation-delay: -5s;
+  animation-duration: 20s;
+}
+@keyframes move-forever {
+  0% {
+   transform: translate3d(-90px,0,0);
+  }
+  100% { 
+    transform: translate3d(85px,0,0);
+  }
+}
+/*Shrinking for mobile*/
+@media (max-width: 768px) {
+  .waves {
+    height:40px;
+    min-height:40px;
+  }
+}
+.recentcomments a {
+    display: inline-block !important;
+    padding-left: 18px !important;
+    margin: 0 !important;
+}
+
+.slider-img-overlay {
+    position: absolute;
+    left: 0;
+    right: 52.5%;
+    top: 0;
+    bottom: 0;
+    background: #161415;
+    opacity: 1;
+    clip-path: polygon(0 0, 67% 0, 100% 100%, 0% 100%);
+}
+.slider-img-overlay-outer {
+    position: absolute;
+    left: 0;
+    right: 50%;
+    top: 0;
+    bottom: 0;
+    background: #fff;
+    opacity: 1;
+    clip-path: polygon(0 0, 68% 0, 100% 100%, 0% 100%);
+}
+@media (max-width: 991px) {
+.slider-img-overlay-outer {
+    right: 35%;
+}
+.slider-img-overlay {
+    right: 38.5%;
+}
+
+}
